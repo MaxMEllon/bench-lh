@@ -1,0 +1,15 @@
+{
+  "name": "bench-lh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lighthouse": "^6.4.1",
+    "puppeteer": "^5.3.1"
+  }
+}
